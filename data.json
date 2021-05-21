@@ -1,42 +1,42 @@
 [
     {
-        "checkin": "6:00",
-        "due": "7:15",
+        "lastCheckin": "6:00",
+        "nextDue": "7:15",
         "now": "6:32"
     },
     {
-        "checkin": "6:00",
-        "due": "7:15",
+        "lastCheckin": "6:00",
+        "nextDue": "7:15",
         "now": "7:15"
     },
     {
-        "checkin": "6:00",
-        "due": "7:15",
+        "lastCheckin": "6:00",
+        "nextDue": "7:15",
         "now": "7:16"
     },
     {
-        "checkin": "10:12",
-        "due": "11:27",
+        "lastCheckin": "10:12",
+        "nextDue": "11:27",
         "now": "11:20"
     },
     {
-        "checkin": "10:12",
-        "due": "11:27",
+        "lastCheckin": "10:12",
+        "nextDue": "11:27",
         "now": "11:28"
     },
     {
-        "checkin": "23:30",
-        "due": "0:45",
+        "lastCheckin": "23:30",
+        "nextDue": "0:45",
         "now": "23:31"
     },
     {
-        "checkin": "23:30",
-        "due": "0:45",
+        "lastCheckin": "23:30",
+        "nextDue": "0:45",
         "now": "0:44"
     },
     {
-        "checkin": "23:30",
-        "due": "0:45",
+        "lastCheckin": "23:30",
+        "nextDue": "0:45",
         "now": "0:46"
     }
 ]

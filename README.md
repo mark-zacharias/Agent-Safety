@@ -14,3 +14,5 @@ You'll need to show that your code will always identify overdue field agents.
  - be careful around midnight
  - in order to run successfully your code will need to identify `now` at some point
  - tests may help
+ - the next due is always greater than last checkin
+ - assume the method runs successfully every minute to check for data.
