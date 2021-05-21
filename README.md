@@ -16,3 +16,4 @@ You'll need to show that your code will always identify overdue field agents.
  - tests may help
  - the next due is always greater than last checkin
  - assume the method runs successfully every minute to check for data.
+ - `DateTimeOffset.Parse` can help turn a string into a date
